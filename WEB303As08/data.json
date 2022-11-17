@@ -1,0 +1,58 @@
+[
+    {
+        "firstName": "Akshay",
+        "LastName": "Kumar",
+        "age": "52",
+        "weight": "72",
+        "height": "173 cm"
+
+    },
+    {
+        "firstName": "sunil",
+        "LastName": "shetty",
+        "age": "56",
+        "weight": "70",
+        "height": "178 cm"
+
+    },
+    {
+        "firstName": "Parvesh",
+        "LastName": "Raval",
+        "age": "44",
+        "weight": "78",
+        "height": "171 cm"
+
+    },
+    {
+        "firstName": "Om",
+        "LastName": "Puri",
+        "age": "19",
+        "weight": "65",
+        "height": "168 cm"
+
+    },
+    {
+        "firstName": "tabu",
+        "LastName": "khan",
+        "age": "29",
+        "weight": "62",
+        "height": "170 cm"
+
+    },
+    {
+        "firstName": "gulshan",
+        "LastName": "grover",
+        "age": "32",
+        "weight": "79",
+        "height": "179"
+
+    },
+    {
+        "firstName": "sahil",
+        "LastName": "khan",
+        "age": "23",
+        "weight": "69",
+        "height": "170 cm"
+
+    }
+]

@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.searchMatched{
+    color: rgb(136, 46, 46);
+    background-color: rgb(18, 0, 100);
+}
+body{
+    min-height: 100vh;
+    background-color: #6e5151;
+}
+
+main{
+    width: 1000px;
+    margin: auto;
+}
+main h1{
+    text-align: center;
+    margin: 25px 0;
+}
+main .search-area input{
+    padding: 5px 10px;
+    border: 1px solid black;
+    background-color: white;
+}
+main table{
+    margin: 25px 0;
+    width: 100%;
+    border-collapse: collapse;
+}
+main table tr:hover{
+    background-color: rgb(188, 125, 125);
+}
+main table tr.searchMatched:hover{
+    background-color: rgb(17, 138, 17);
+}
+main table th{
+    padding: 10px 0;
+}
+main table td{
+    padding: 5px 10px;
+}
+.buttons .btn{
+    padding: 5px 15px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+
+@media screen and (max-width: 1050px){
+    main{
+        width: 600px;
+    }
+}
+@media screen and (max-width: 750px){
+    main{
+        width: 450px;
+    }
+}
